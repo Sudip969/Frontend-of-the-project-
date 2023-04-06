@@ -115,4 +115,16 @@ p{
     margin-left: 7px;
     margin-top:3px
 }
+li,form{
+    margin: 1rem auto;
+    padding: 1rem;
+    text-align: center;
+  width: 100%;
+  max-width: 50rem;
+    border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+}
+ form div {
+  margin: 1rem 0;
+}
 </style>

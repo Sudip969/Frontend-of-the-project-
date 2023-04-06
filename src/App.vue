@@ -30,34 +30,24 @@ body {
   margin: 0;
 }
 
-header {
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
-  margin: 3rem auto;
-  border-radius: 10px;
-  padding: 1rem;
-  background-color: #58004d;
-  color: white;
-  text-align: center;
-  width: 90%;
-  max-width: 40rem;
-}
 
-#app ul {
+
+/* #app ul {
   margin: 0;
   padding: 0;
   list-style: none;
-}
+} */
 
-#app li,
-#app form {
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+/* #app li,
+#app form { */
+  /* box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26); */
   /* margin: 1rem auto; */
-  border-radius: 10px;
+  /* border-radius: 10px; */
   /* padding: 1rem; */
-  text-align: center;
+  /* text-align: center;
   width: 100%;
   max-width: 50rem;
-}
+} */
 
 #app h2 {
   font-size: 2rem;
@@ -76,7 +66,7 @@ header {
   width: 7rem;
   display: inline-block;
 }
-#app form div {
+/* #app form div {
   margin: 1rem 0;
-}
+} */
 </style>

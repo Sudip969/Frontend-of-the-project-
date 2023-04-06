@@ -1,5 +1,6 @@
 import { createApp } from 'vue';
 //import Vue from 'vue';
+import "bootstrap/dist/css/bootstrap.min.css"
 //import { BootstrapVue, BootstrapVueIcons } from 'bootstrap-vue'
 import BootstrapIcon from '@dvuckovic/vue3-bootstrap-icons';
 import router from './routes' 
@@ -18,3 +19,5 @@ app.component('base-button',BaseButton)
 app.component('base-dialog',BaseDialog)
 app.component('BootstrapIcon', BootstrapIcon);
 app.mount('#app');
+
+import "bootstrap/dist/js/bootstrap.js"
